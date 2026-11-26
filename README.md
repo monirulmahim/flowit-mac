@@ -45,8 +45,8 @@ An email that ends with *"Best regards, [Your Name]"* isn't much help. So Flowit
 
 ```markdown
 # About me
-- Name: Md Monirul Islam (Monirul)
-- Sign my emails as: Monirul
+- Name: Md Monirul Islam (Mahim)
+- Sign my emails as: Md Monirul Islam
 - My tone: friendly, casual and warm. Simple words, no corporate language.
 ```
 
