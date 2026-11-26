@@ -1,0 +1,27 @@
+# python
+__pycache__/
+*.py[cod]
+
+# virtual environment
+.venv/
+venv/
+env/
+
+# mac
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# secrets (e.g. HF_TOKEN)
+.env
+
+# build output (py2app / pyinstaller / platypus)
+build/
+dist/
+*.app
+*.spec
+
+# logs
+*.log
