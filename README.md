@@ -48,9 +48,6 @@ An email that ends with *"Best regards, [Your Name]"* isn't much help. So Flowit
 - Name: Md Monirul Islam (Monirul)
 - Sign my emails as: Monirul
 - My tone: friendly, casual and warm. Simple words, no corporate language.
-
-# People
-- Katie: my project supervisor
 ```
 
 Flowit reads this note every time it starts and quietly passes it to the AI, so the emails come out sounding like you and signed with your name. Keep it short, since it's sent with every request. If the file isn't there, Flowit still works; it just doesn't know who you are yet.
